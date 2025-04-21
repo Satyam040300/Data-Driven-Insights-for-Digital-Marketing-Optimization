@@ -41,7 +41,7 @@ Additional synthetic columns were added:
 ## 🚀 Getting Started
 
 ## Results & Insights
-Overall Conversion Rate: ~87.6%
+Overall Accuracy: ~87.6%
 
 No statistically significant difference between Funnel A and B
 
